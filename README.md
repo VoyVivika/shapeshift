@@ -1,5 +1,6 @@
 # Shapeshift 2.0.0
 Shapeshift is a 3D Model Maker made for and with P3D (https://clickstore.clickteam.com/p3d_3d_framework)
+This is a repository for Source Releases and Executable Releases.
 
 Note: To open the .mfa source file requires Clickteam Fusion 2.5+, to make use of the MFA file you have to copy and paste the "P3D perspective projection engine" group from your P3D mfa into the shapeshift mfa where designated.
 If you're looking for the previous iteration of Shapeshift you'll find it here https://github.com/VoyVivika/shapeshift1
