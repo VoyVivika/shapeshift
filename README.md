@@ -13,6 +13,7 @@ Changes over original
 - Points Detached from Tris/Quads (Allows much easier editing of geometry by manipulating global points instead of per-polygon points)
 - Better Mouse Control
 - 123 Importable Textures over original 50
+- (Source MFA) Clickteam Fusion 2.5+ DLC No Longer Required
 
 Features Excluded from 1.x
 - Lighting (for now this should be handled within your own application unless there is demand)
