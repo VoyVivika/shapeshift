@@ -1,3 +1,5 @@
+# NOTE: This is the beta branch, specifically for Beta Releases. Please return to the master branch for less buggy releases.
+
 # Shapeshift 2.0.0
 Shapeshift is a Portable/Standalone 3D Map Model Maker made for and with P3D (http://p3d.lizardking.co/)
 This is a repository for Source MFA Releases and Executable Releases.
