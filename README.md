@@ -22,3 +22,6 @@ Features Excluded from 1.x
 
 # P3D
 P3D is an extensionless 3D engine for Clickteam Fusion 2.5 by Lizard King containing most of the basics for making a 3D game. The engine is heavily reliant on Fusion 2.5's Pixel Shaders support via DirectX 9. Fusion's Shader support is not whole hearted and thus lacks crutial features for allowing this engine to run better than it does. It's suggested to use Sprites instead of large amounts of polygons due to the strain they put on the Engine, particularly on low end machines. Find more info about P3D here http://p3d.lizardking.co/
+
+# TL;DR License Info
+Shapeshift is Licensed under the MIT License which basically permits you to use the source for whatever you'd like but you are not granted rights to the Copyright. Bear in mind P3D is not included with the Source and uses a strict license about distributing it's source, using it's Source maintains that you abide by it's license, if you wish to share the source for your own derivative of Shapeshift you'll have to make sure you remove P3D's group if you've pasted it in there to begin with.
