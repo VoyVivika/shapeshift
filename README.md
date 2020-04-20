@@ -2,6 +2,8 @@
 Shapeshift is a 3D Map Model Maker made for and with P3D (http://p3d.lizardking.co/)
 This is a repository for Source MFA Releases and Executable Releases.
 
+Shapeshift Releases are not tested to a high degree, if you find bugs please report them, thank you.
+
 Visit the [Everything You Need To Know!](https://github.com/VoyVivika/shapeshift/wiki/Everything-You-Need-To-Know!) Page on the Wiki.
 
 Note: To make use of the MFA file you have to copy and paste the "P3D perspective projection engine" group from your P3D mfa into the shapeshift mfa where designated.
@@ -21,4 +23,4 @@ Changes over original
 P3D is an extensionless 3D engine for Clickteam Fusion 2.5 by Lizard King containing most of the basics for making a 3D game. The engine is heavily reliant on Fusion 2.5's Pixel Shaders support via DirectX 9. Fusion's Shader support is not whole hearted and thus lacks crutial features for allowing this engine to run better than it does. It's suggested to use Sprites instead of large amounts of polygons due to the strain they put on the Engine, particularly on low end machines. Find more info about P3D here http://p3d.lizardking.co/
 
 # TL;DR License Info
-Shapeshift is Licensed under the MIT License which basically permits you to use the source for whatever you'd like but you are not granted rights to the Copyright and you are required to include the license, not required to use the same license, but required to include it. Bear in mind P3D is not included with the Source and uses it's own strict license about distributing it's source (hense the choice for a permissive license), using it's Source maintains that you abide by it's license, if you wish to share the source for your own derivative of Shapeshift you'll have to make sure you remove P3D's group if you've pasted it in there to begin with.
+Shapeshift is Licensed under the MIT License which basically permits you to use the source for whatever you'd like but you are not granted rights to the Copyright and you are required to include the original license, not required to use the same license, but required to include it. Bear in mind P3D is not included with the Source and uses it's own strict license about distributing it's source (hense the choice for a permissive license), using it's code means that you abide by it's own license, if you wish to share the source for your own derivative of Shapeshift you'll have to make sure you remove the P3D group if you've copied and pasted it in.
