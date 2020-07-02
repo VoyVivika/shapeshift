@@ -4,8 +4,6 @@ This is a repository for Source MFA Releases and Executable Releases.
 
 Shapeshift Releases are not tested to a high degree, if you find bugs please report them, thank you.
 
-Visit the [Everything You Need To Know!](https://github.com/VoyVivika/shapeshift/wiki/Everything-You-Need-To-Know!) Page on the Wiki.
-
 Note: To make use of the MFA file you have to copy and paste the "P3D perspective projection engine" group from your P3D mfa into the shapeshift mfa where designated.
 If you're looking for the previous iteration of Shapeshift you'll find it here https://github.com/VoyVivika/shapeshift1 (Clickteam Fusion 2.5+ Required for Shapeshift 1.x)
 
