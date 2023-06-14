@@ -2,7 +2,9 @@
 Shapeshift is a 3D Map Model Maker made for and with P3D (http://p3d.lizardking.co/)
 This is a repository for Source MFA Releases and Executable Releases.
 
-Shapeshift Releases are not tested to a high degree, if you find bugs please report them, thank you.
+You can find Documentation for this Program Here: https://github.com/VoyVivika/shapeshift/wiki
+
+Note: I am no longer working on this project. Any Bugs will not be fixed.
 
 Note: To make use of the MFA file you have to copy and paste the "P3D perspective projection engine" group from your P3D mfa into the shapeshift mfa where designated.
 If you're looking for the previous iteration of Shapeshift you'll find it here https://github.com/VoyVivika/shapeshift1 (Clickteam Fusion 2.5+ Required for Shapeshift 1.x)
